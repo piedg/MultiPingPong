@@ -1,0 +1,2 @@
+A:\Projects\GameProgrammer\MySDLProject\x64\Debug\MySDLProject.exe
+A:\Projects\GameProgrammer\GameCore\x64\Debug\MySDLProject.exe
