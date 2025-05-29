@@ -1,39 +1,42 @@
-﻿  Game.cpp
-A:\Projects\GameProgrammer\GameCore\Game.cpp(145,28): warning C4244: '=': conversion from 'Uint64' to 'Uint32', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(234,3): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(234,3): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(240,7): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(240,7): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(242,3): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(242,3): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(249,3): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(249,3): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(255,8): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(255,8): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(257,3): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(257,3): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(263,30): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(263,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(264,33): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(264,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(265,3): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(265,3): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(266,20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(266,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(271,30): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(271,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(272,33): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(272,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(273,2): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(273,2): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(274,19): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(274,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(282,37): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(282,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(283,37): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(283,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(284,4): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(284,4): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
-A:\Projects\GameProgrammer\GameCore\Game.cpp(285,4): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
-A:\Projects\GameProgrammer\GameCore\Game.cpp(285,4): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
-  MySDLProject.vcxproj -> A:\Projects\GameProgrammer\GameCore\x64\Debug\MySDLProject.exe
+﻿A:\Program Files\Visual Studio Community 2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MySDLProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(145,28): warning C4244: '=': conversion from 'Uint64' to 'Uint32', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(234,3): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(234,3): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(240,7): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(240,7): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(242,3): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(242,3): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(249,3): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(249,3): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(255,8): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(255,8): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(257,3): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(257,3): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(263,30): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(263,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(264,33): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(264,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(265,3): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(265,3): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(266,20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(266,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(271,30): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(271,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(272,33): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(272,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(273,2): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(273,2): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(274,19): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(274,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(282,37): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(282,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(283,37): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(283,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(284,4): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(284,4): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(285,4): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
+A:\Projects\GameProgrammer\MultiPong\Game.cpp(285,4): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  MySDLProject.vcxproj -> A:\Projects\GameProgrammer\MultiPong\x64\Debug\SDL3MultiPingPong.exe
